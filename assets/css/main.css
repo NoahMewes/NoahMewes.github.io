@@ -2826,6 +2826,29 @@ input, select, textarea {
 
 		}
 
+/* Skills */
+
+		.Skills h2{
+			padding-top: 100px;
+			padding-bottom: 50px;
+		}
+
+		.Skills img { 
+			max-width: 400px;
+			max-height: 200px;
+			padding-left: 25px;
+			padding-right: 25px;
+		}
+/* Resume */
+
+		.Resume h2{
+			padding-top: 100px;
+			padding-bottom: 25px;
+		}
+		
+		
+		
+
 /* Header */
 
 	#header {
